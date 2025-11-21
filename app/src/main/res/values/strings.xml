@@ -8,4 +8,5 @@
         <item>e</item>
         <item>f</item>
     </string-array>
+    <string name="title_activity_summary">SummaryActivity</string>
 </resources>
